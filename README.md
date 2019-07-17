@@ -1,2 +1,1 @@
-# Website-1
-Responsive Bootstrap Website
+# Responsive Bootstrap Website
